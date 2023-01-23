@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300"
+   height="60"
+   viewBox="0 0 79.375 15.875"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="/home/hiroki/Documents/mitou/icon_wide.png"
+   inkscape:export-xdpi="1000"
+   inkscape:export-ydpi="1000"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="4.0810163"
+     inkscape:cx="155.10842"
+     inkscape:cy="-24.5037"
+     inkscape:window-width="2560"
+     inkscape:window-height="1371"
+     inkscape:window-x="1920"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter27649"
+       x="-0.2488003"
+       y="-0.51032874"
+       width="1.497593"
+       height="2.1022438">
+      <feFlood
+         flood-opacity="0.356863"
+         flood-color="rgb(128,128,128)"
+         result="flood"
+         id="feFlood27639" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite27641" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.1"
+         result="blur"
+         id="feGaussianBlur27643" />
+      <feOffset
+         dx="1.38778e-16"
+         dy="0.5"
+         result="offset"
+         id="feOffset27645" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite27647" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#f8f8f8;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13097"
+       width="79.375"
+       height="15.875"
+       x="-1.2715658e-06"
+       y="-1.2212453e-15"
+       rx="1.5875"
+       ry="1.5875" />
+    <g
+       id="g8465"
+       transform="translate(2.3840579,1.9990623)">
+      <g
+         id="g841"
+         transform="matrix(1.7516245,0,0,1.7516245,0.12018805,-10.018506)"
+         style="filter:url(#filter27649)">
+        <g
+           id="g11307"
+           transform="translate(0.65613405,-0.48809184)">
+          <g
+             id="g12024"
+             transform="matrix(0.90049079,0,0,1,0.0694149,0)">
+            <path
+               id="path28604"
+               style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.187689;stroke-opacity:0"
+               d="m 1.8502938,9.5965496 3.4486006,0.020638 c 0.16464,9.853e-4 0.6697339,0.057878 0.6681385,0.3449934 l -0.010109,1.819202 c -0.00186,0.335575 -0.147631,0.598706 -0.463934,0.599011 l -5.07396658,0.0049 c -0.164643,1.59e-4 -0.503147,-0.241357 -0.29719,-0.590581 L 1.2464638,9.8877748 c 0.144943,-0.245766 0.43919,-0.2922135 0.60383,-0.2912282 z"
+               sodipodi:nodetypes="ssssssssss" />
+            <path
+               id="path2750"
+               style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.187689;stroke-opacity:0"
+               d="M 10.453091,9.5965506 7.0044905,9.6171886 C 6.8398505,9.6181739 6.3347566,9.6750666 6.336352,9.962182 l 0.010109,1.819203 c 0.00186,0.335575 0.147631,0.598706 0.463934,0.599011 l 5.073967,0.0049 c 0.164643,1.59e-4 0.503147,-0.241357 0.29719,-0.590581 L 11.056921,9.8877758 c -0.144943,-0.245766 -0.43919,-0.2922135 -0.60383,-0.2912282 z"
+               sodipodi:nodetypes="ssssssssss" />
+          </g>
+        </g>
+        <path
+           id="rect6135"
+           style="fill:#b188ee;fill-opacity:1;stroke:#000000;stroke-width:0.296218;stroke-opacity:0"
+           d="m 2.3480456,6.4338453 h 7.8643994 c 0.31845,0 0.541635,0.3850836 0.672562,0.7610858 l 0.974424,2.798386 c 0.130928,0.3760019 -0.202838,0.8336589 -0.52129,0.8336589 H 1.3319834 c -0.3184513,0 -0.75896908,-0.45756 -0.62835343,-0.8336589 L 1.6754839,7.1949311 C 1.806099,6.8188339 2.0295942,6.4338453 2.3480456,6.4338453 Z"
+           sodipodi:nodetypes="sssssssss" />
+      </g>
+      <g
+         aria-label="IM Plane"
+         id="text19383"
+         style="font-weight:bold;font-size:3.88056px;line-height:0.85;font-family:'Nexa Demo';-inkscape-font-specification:'Nexa Demo, Bold';stroke-width:0.264583"
+         transform="matrix(1.5703186,0,0,1.5703186,23.6695,-0.51373179)">
+        <g
+           aria-label="IMPlane"
+           id="text3417"
+           style="font-weight:normal;font-size:6.73961px;line-height:1.25;font-family:sans-serif;stroke-width:0.0445796">
+          <path
+             d="m 1.4350224,6.8057961 h 0.919957 V 1.30178 h -0.919957 z"
+             style="font-weight:bold;font-size:7.86288px;font-family:'Nexa Demo'"
+             id="path30171" />
+          <path
+             d="M 8.7239089,1.30178 6.6323827,3.9672964 4.5408566,1.30178 H 3.7073913 v 5.5040161 h 0.919957 V 2.8664932 l 1.902817,2.4139042 h 0.196572 L 8.6374172,2.8586303 V 6.8057961 H 9.5495113 V 1.30178 Z"
+             style="font-weight:bold;font-size:7.86288px;font-family:'Nexa Demo'"
+             id="path30173" />
+          <path
+             d="m 13.473091,1.30178 h -2.563299 v 5.5040161 h 0.919957 V 5.1388655 h 1.643342 c 1.203021,0 1.989309,-0.7626993 1.989309,-1.9185427 0,-1.1558434 -0.786288,-1.9185428 -1.989309,-1.9185428 z m -0.04718,3.0036202 h -1.604028 v -2.162292 h 1.604028 c 0.676207,0 1.124392,0.4245955 1.124392,1.0772146 0,0.6604819 -0.448185,1.0850774 -1.124392,1.0850774 z"
+             style="font-weight:bold;font-size:7.86288px;font-family:'Nexa Demo'"
+             id="path30175" />
+          <path
+             d="m 16.209369,6.8057961 h 0.880642 V 1.30178 h -0.880642 z"
+             style="font-weight:bold;font-size:7.86288px;font-family:'Nexa Demo'"
+             id="path30177" />
+          <path
+             d="m 21.265207,2.9215333 -0.0079,0.5189501 C 20.958517,3.0630652 20.44743,2.8350416 19.841988,2.8350416 c -1.140117,0 -1.926405,0.8334653 -1.926405,2.0286231 0,1.1951578 0.786288,2.0286231 1.926405,2.0286231 0.597579,0 1.116529,-0.2280235 1.415319,-0.6054417 l 0.0079,0.51895 h 0.786288 V 2.9215333 Z m -1.28165,3.1687407 c -0.699796,0 -1.187295,-0.5032243 -1.187295,-1.2266093 0,-0.723385 0.487499,-1.2266093 1.187295,-1.2266093 0.699796,0 1.187295,0.5032243 1.187295,1.2266093 0,0.723385 -0.487499,1.2266093 -1.187295,1.2266093 z"
+             style="font-weight:bold;font-size:7.86288px;font-family:'Nexa Demo'"
+             id="path30179" />
+          <path
+             d="m 25.259543,2.8429045 c -0.550402,0 -1.014312,0.196572 -1.344553,0.589716 l -0.0079,-0.5110872 h -0.786288 v 3.8842628 h 0.880643 V 4.7614473 c 0,-0.6526191 0.448184,-1.1243919 1.09294,-1.1243919 0.589716,0 0.943546,0.393144 0.943546,1.0772146 V 6.8057961 H 26.91861 V 4.6592298 c 0,-1.1086661 -0.660482,-1.8163253 -1.659067,-1.8163253 z"
+             style="font-weight:bold;font-size:7.86288px;font-family:'Nexa Demo'"
+             id="path30181" />
+          <path
+             d="m 29.686345,2.8429045 c -1.203021,0 -2.012898,0.8177396 -2.012898,2.0207602 0,1.2423351 0.825603,2.0522118 2.107252,2.0522118 0.668345,0 1.289513,-0.2594751 1.674794,-0.6762077 L 30.920817,5.7207187 c -0.235887,0.2437493 -0.676208,0.4010069 -1.116529,0.4010069 -0.684071,0 -1.155844,-0.3616925 -1.226609,-0.9278199 h 3.105837 C 31.809322,3.7392729 31.054486,2.8429045 29.686345,2.8429045 Z m 0.02359,0.7626994 c 0.644756,0 1.069352,0.3538296 1.132255,0.9042312 h -2.256647 c 0.110081,-0.5739902 0.511088,-0.9042312 1.124392,-0.9042312 z"
+             style="font-weight:bold;font-size:7.86288px;font-family:'Nexa Demo'"
+             id="path30183" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

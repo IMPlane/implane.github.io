@@ -1,0 +1,71 @@
+/**
+ * Copyright (c) 2023 Hiroki Takemura (kekeho)
+ * 
+ * This software is released under the MIT License.
+ * https://opensource.org/licenses/MIT
+ */
+
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+
+
+/* Header */
+
+
+header {
+    height: 2.5rem;
+}
+
+header nav {
+    height: 100%;
+    padding: 0.5rem;
+    border-bottom: solid 1px rgb(194, 194, 194);
+
+    display: flex;
+    justify-content: space-between;
+}
+
+header nav ul {
+    display: flex;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    gap: 0 1rem;
+}
+
+header nav li {
+    list-style: none;
+    margin: auto 0;
+}
+
+header nav li a {
+    text-decoration: none;
+    color: black;
+}
+
+.logo {
+    height: 100%;
+}
+
+.logo img {
+    height: 100%;
+}
+
+
+
+/* Main */
+
+main {
+    min-height: calc(100vh - 2.5rem);
+}
+
+
+/* Footer */
+
+footer {
+    padding: 1rem 0.5rem;
+    border-top: solid 1px rgb(194, 194, 194);
+}
