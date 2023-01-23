@@ -8,6 +8,7 @@
 
 body {
     font-family: Helvetica, Arial, sans-serif;
+    font-size: 1rem;
 }
 
 
@@ -60,8 +61,18 @@ header nav li a {
 
 main {
     min-height: calc(100vh - 2.5rem);
+    display: flex;
+
+    flex-direction: column;
+    gap: 2rem 0;
+
+    padding: 1rem 0.5rem;
 }
 
+
+section div {
+    
+}
 
 /* Footer */
 
